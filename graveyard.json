@@ -409,7 +409,7 @@
   },
   {
     "dateClose": "2019-10-15",
-    "dateOpen": "2017-10-04",
+    "dateOpen": "2021-12-31",
     "description": "Google Clips was a miniature clip-on camera that could automatically capture interesting or relevant video clips determined by machine learning algorithms.",
     "link": "https://en.wikipedia.org/wiki/Google_Clips",
     "name": "Google Clips",
@@ -2008,10 +2008,10 @@
     "type": "app"
   },
   {
-    "dateClose": "2020-10-19",
+    "dateClose": "2024-04-08",
     "dateOpen": "2017-11-15",
     "description": "Nest Secure was a security system with an alarm, keypad, and motion sensor with an embedded microphone.",
-    "link": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
+    "link": "https://www.nerdwallet.com/article/mortgages/nest-secure-discontinued",
     "name": "Nest Secure",
     "type": "hardware"
   },
